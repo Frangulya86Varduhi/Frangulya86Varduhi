@@ -22,8 +22,8 @@
 
 ## Контакты
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/varduhi-frangulyan-13b090380/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/https://Frangulya86Varduhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/varduhi-frangulyan-13b090380/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/frangulya86Varduhi)
 
 ---
 
